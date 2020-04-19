@@ -1,0 +1,30 @@
+is in ipython: 0 
+[WARN]No module named jinja2_util
+is in ipython: 0 
+[WARN]No module named jinja2_util
+is in ipython: 0 
+[WARN]No module named jinja2_util
+is in ipython: 0 
+[WARN]No module named jinja2_util
+/home/feng/.local/lib/python2.7/site-packages/numpy/lib/function_base.py:3826: RuntimeWarning:
+
+Invalid value encountered in percentile
+
+/home/feng/.local/lib/python2.7/site-packages/pandas/core/computation/check.py:17: UserWarning:
+
+The installed version of numexpr 2.4.3 is not supported in pandas and will be not be used
+The minimum supported version is 2.4.6
+
+
+/home/feng/.local/lib/python2.7/site-packages/matplotlib/font_manager.py:1331: UserWarning:
+
+findfont: Font family [u'serif'] not found. Falling back to DejaVu Sans
+
+[WARN] NUMPY is not limited cuz NCORE is not set
+[WARN] NUMPY is not limited cuz NCORE is not set
+[WARN] pymisca.vis_util cannot find network
+[WARN] pymisca.vis_util cannot find network
+[WARN] Cannot find file:key.gene
+[WARN] Cannot find file:key.gene
+[WARN] pymisca.vis_util cannot find network
+[WARN] pymisca.vis_util cannot find network

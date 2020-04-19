@@ -1,0 +1,42 @@
+is in ipython: 0 
+[WARN]No module named jinja2_util
+is in ipython: 0 
+[WARN]No module named jinja2_util
+is in ipython: 0 
+[WARN]No module named jinja2_util
+is in ipython: 0 
+[WARN]No module named jinja2_util
+/home/feng/.local/lib/python2.7/site-packages/pandas/core/computation/check.py:17: UserWarning:
+
+The installed version of numexpr 2.4.3 is not supported in pandas and will be not be used
+The minimum supported version is 2.4.6
+
+
+[WARN] NUMPY is not limited cuz NCORE is not set
+[WARN] NUMPY is not limited cuz NCORE is not set
+[WARN] pymisca.vis_util cannot find network
+[WARN] pymisca.vis_util cannot find network
+[WARN] Cannot find file:key.gene
+[WARN] Cannot find file:key.gene
+[WARN] pymisca.vis_util cannot find network
+[WARN] pymisca.vis_util cannot find network
+SpecAcc=Bd_gtype=Bd21_Age=Wk2_light=LD-SD
+SpecAcc=Bd_gtype=Bd21_Age=Wk3_runID!=196R_light=LD-SD
+SpecAcc=Bd_gtype=Bd21_light=LD_runID!=196R_Age=Wk3-Wk2
+SpecAcc=Bd_Age=Wk3_light=LD_runID!=196R_gtype=Bdelf3-Bd21
+SpecAcc=Bd_gtype=Bd21_light=LD_runID!=196R_Age=Wk3-Wk2
+SpecAcc=Bd_light=LD_Age=Wk3_runID=196R_gtype=ppd1-Bd21
+('rnaseq_wk4elf3oxld_wk4wtld', 'LD_Wk4_ELF3OX/wt')
+                 runID          gtype light temp ZTime_int
+169RS25__169RS17  169R  BdELF3OX/Bd21    LD  nan         0
+169RS26__169RS18  169R  BdELF3OX/Bd21    LD  nan         4
+169RS27__169RS19  169R  BdELF3OX/Bd21    LD  nan        12
+169RS28__169RS20  169R  BdELF3OX/Bd21    LD  nan        20
+('rnaseq_wk3elf3ld_wk3elf3sd', 'LD/SD_Wk3_elf3-1')
+                      runID   gtype  light     temp ZTime_int
+193RS8__144RS17   193R/144R  Bdelf3  LD/SD  20C/nan         0
+193RS9__144RS18   193R/144R  Bdelf3  LD/SD  20C/nan         4
+193RS10__144RS19  193R/144R  Bdelf3  LD/SD  20C/nan         8
+193RS11__144RS20  193R/144R  Bdelf3  LD/SD  20C/nan        12
+193RS12__144RS21  193R/144R  Bdelf3  LD/SD  20C/nan        16
+193RS13__144RS16  193R/144R  Bdelf3  LD/SD  20C/nan        20

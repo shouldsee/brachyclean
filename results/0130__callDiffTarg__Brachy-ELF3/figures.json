@@ -1,0 +1,10 @@
+{
+    "DIR": ".", 
+    "fignames": [
+        "./qcPlot.png", 
+        "./markerWindow.png", 
+        "./signature.png", 
+        "./previewTargets.png", 
+        "./previewScatter.png"
+    ]
+}
